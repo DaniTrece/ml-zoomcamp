@@ -1,0 +1,17 @@
+Q1
+pipenv, version 2022.10.4
+
+Q2
+"sha256:08ef968f6b72033c16c479c966bf37ccd49b06ea91b765e1cc27afefe723920b"
+
+Q3
+0.16213414434326598
+
+Q4
+{'churn': True, 'churn_probability': 0.9282218018527452}
+
+Q5
+125MB
+
+Q6
+{'churn': True, 'churn_probability': 0.6716058718514967}
